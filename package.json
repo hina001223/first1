@@ -1,0 +1,23 @@
+{
+  "name": "bn",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hina001223/first1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hina001223/first1/issues"
+  },
+  "homepage": "https://github.com/hina001223/first1#readme"
+}
